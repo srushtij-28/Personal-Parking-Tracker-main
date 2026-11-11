@@ -1,0 +1,24 @@
+Features
+Register vehicle entry
+Assign available parking slots
+View currently parked vehicles
+Search vehicles by registration number
+Record vehicle exit
+Calculate parking charges
+View parking history
+Display parking statistics
+
+Project Structure
+Personal_Parking_Tracker/
+│
+├── main.py
+├── parking_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── parking_records.json
